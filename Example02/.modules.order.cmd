@@ -1,0 +1,1 @@
+cmd_/home/seyfpi/LinuxKernelModuleExamples/Example02/modules.order := {   echo /home/seyfpi/LinuxKernelModuleExamples/Example02/devnr.ko; :; } | awk '!x[$$0]++' - > /home/seyfpi/LinuxKernelModuleExamples/Example02/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/seyfpi/LinuxKernelModuleExamples/Example02/devnr.mod := { echo  /home/seyfpi/LinuxKernelModuleExamples/Example02/devnr.o;  echo; } > /home/seyfpi/LinuxKernelModuleExamples/Example02/devnr.mod

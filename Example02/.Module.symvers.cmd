@@ -1,0 +1,1 @@
+cmd_/home/seyfpi/LinuxKernelModuleExamples/Example02/Module.symvers := sed 's/\.ko$$/\.o/' /home/seyfpi/LinuxKernelModuleExamples/Example02/modules.order | scripts/mod/modpost -m -a  -o /home/seyfpi/LinuxKernelModuleExamples/Example02/Module.symvers -e -i Module.symvers   -T -

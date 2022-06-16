@@ -1,0 +1,1 @@
+cmd_/home/seyfpi/LinuxKernelModuleExamples/Example02/devnr.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/seyfpi/LinuxKernelModuleExamples/Example02/devnr.ko /home/seyfpi/LinuxKernelModuleExamples/Example02/devnr.o /home/seyfpi/LinuxKernelModuleExamples/Example02/devnr.mod.o;  true
